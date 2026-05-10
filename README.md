@@ -33,4 +33,5 @@ Proyecto desarrollado en Java aplicando Programación Orientada a Objetos para s
 - Mostrar información del dron
 - Recalcular costo al modificar valores
  de vuelo: 1.5
+# Problema
 La parte más difícil para mí fue desde la tercera clase (DronEmergencia), porque ahí ya debía aplicar más validaciones, sobrescribir métodos y realizar un cálculo diferente del costo. También me confundí un poco con la herencia y cómo reutilizar los atributos de la clase padre.Finalmente no pude tterminar mi prueba por falta de tiempo.
